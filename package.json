@@ -8,6 +8,8 @@
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
   },
+  "type": "module",
+  "main": "src/main.js",
   "private": true,
   "dependencies": {
     "@angular/animations": "^15.0.0",
