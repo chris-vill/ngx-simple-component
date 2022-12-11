@@ -9,7 +9,7 @@
     "test": "ng test"
   },
   "type": "module",
-  "main": "src/main.js",
+  "main": "index.ts",
   "private": true,
   "dependencies": {
     "@angular/animations": "^15.0.0",
