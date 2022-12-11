@@ -1,1 +1,5 @@
-export * from "src/app/sample.component";
+import { SampleComponent } from "src/app/sample.component";
+
+export {
+  SampleComponent
+};
