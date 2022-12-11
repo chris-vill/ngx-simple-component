@@ -1,5 +1,5 @@
-import { SampleComponent } from "src/app/sample.component";
+import { SampleModule } from "src/app/sample.module";
 
 export {
-  SampleComponent
+  SampleModule
 };
