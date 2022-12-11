@@ -14,4 +14,4 @@ import { SampleComponent } from './app.component';
     SampleComponent
   ],
 })
-export class AppModule { }
+export class SampleModule { }
