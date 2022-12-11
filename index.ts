@@ -1,4 +1,4 @@
-import { SampleModule } from "src/app/app.module";
+import { SampleModule } from "src/app/sample.module";
 
 export {
   SampleModule
