@@ -1,5 +1,5 @@
-import { SampleModule } from "src/app/sample.module";
+import { AppModule } from "src/app/app.module";
 
 export {
-  SampleModule
+  AppModule
 };
