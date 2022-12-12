@@ -1,3 +1,1 @@
-console.log("wait a minute");
-
-export * from "./src/app/sample.module";
+export * from "./src/components.module";
